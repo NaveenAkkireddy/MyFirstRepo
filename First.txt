@@ -1,1 +1,9 @@
 Give me simple code for online groceries. Think like a pro Web developer. Website should be simple but good appeal with Indian traditional colors. Website contains Indian pulses and spices
+Website-build:
+Basic code: perplexity
+Improvements: ChatGPT
+Languages: html, css, Java
+Domain: NameCheap
+Hosting/DNS/Security: Github
+Mail: Yahoo
+Backend Mail: FormSubmit
